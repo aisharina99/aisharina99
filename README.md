@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aisharina99
+- 👋 Hi, I’m Anis Aisharina
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning as a third year student in UTM
 - 💞️ I’m looking to collaborate with Sun asterisk
